@@ -1,0 +1,13 @@
+* {
+    background: green;
+    color: red;
+}
+
+p {
+    color: red;
+    font-size: 16px;
+}
+
+li {
+    text-decoration: none;
+}
