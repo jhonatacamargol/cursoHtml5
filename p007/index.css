@@ -10,10 +10,14 @@
 
 }
 .estilo{
-    margin: 50px 40px 30px 20px;
+    margin: 50px auto;
     /*margin-top: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
     margin-left: 10px;*/
-    background-color: red;
+    background-color: rgb(163, 156, 156);
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+    border: 10px solid red;
 }
