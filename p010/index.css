@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.bg-red {
+    background-color: red;
+    color: white;
+}
+.bg-blue {
+background-color: blue;
+color: white;
+}
+.float-element {
+    float: left;
+    width: 50%;
+}
